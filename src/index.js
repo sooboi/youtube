@@ -1,11 +1,11 @@
+import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./index.css";
 import App from "./App";
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import NotFound from "./pages/NotFound";
 import Videos from "./pages/Videos";
 import VideoDetail from "./pages/VideoDetail";
+import "./index.css";
 
 const router = createBrowserRouter([
   {
