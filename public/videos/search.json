@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "1jwVXbktHW-ZO6ozeOUYDIF1t_I",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "apMr8L91UD-nCpkRQ0ldmN-9jLE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lLETx3kYsYA"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-01T19:00:09Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "KAI LENNY&#39;s 24-Hour Strike Mission to TAHITI",
+        "description": "Kai Lenny takes off on a 24-hour strike mission for a tow swell in Tahiti and pushes the limits of what's possible on a surfboard ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lLETx3kYsYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lLETx3kYsYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lLETx3kYsYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-01T19:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SKQAeqJHWCVU-31aOydRvnHH6Qc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "udP_pFMGzeQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-01T14:30:18Z",
+        "channelId": "UCeYue9Nbodzg3T1Nt88E3fg",
+        "title": "Surfing Indonesia | Pyzel Loves Mason’s Mayhem At Uluwatu",
+        "description": "Mason Ho wakes up at the Uluwatu Surf Villas and heads down for a surf in front of cliff front 3. He bumps into neighborhood ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/udP_pFMGzeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/udP_pFMGzeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/udP_pFMGzeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ho & Pringle Productions",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-01T14:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CWN6LnEF5fcJtCTiy8KuKJ-qsow",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hCMdVywETkU"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-21T19:00:19Z",
+        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+        "title": "SURFING SKELETON BAY WITH KELLY SLATER &amp; EVERY PRO SURFER ON THE PLANET OF EARTH!",
+        "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hCMdVywETkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hCMdVywETkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hCMdVywETkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamie O'Brien",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-21T19:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zROYSF8xH18lFWrWv1tuSJofcbs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eSWST13stO4"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-27T15:00:32Z",
+        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+        "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
+        "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Waves of the World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-27T15:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lkp0sNtCHTJvHXBFmDCarbUeU2k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4Nxo_DCslXY"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-30T19:00:26Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Kai Lenny pushes the boundaries of Foiling in #LifeOfKai",
+        "description": "Kai Lenny works with the pioneers of foiling to push the limits of what the hydrofoil can do on water in the newest installment of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Nxo_DCslXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Nxo_DCslXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Nxo_DCslXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-30T19:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iYt9sKjxm3HZBarsmNb107W8_Nc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a48-c7kCdYI"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-31T08:00:08Z",
+        "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
+        "title": "SURFING A GLASSY REEF BREAK! (4K POV)",
+        "description": "In this video, we went and surfed one of our favourite reef breaks! It got super glassy Then we went for a skate at the bowl For ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a48-c7kCdYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a48-c7kCdYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a48-c7kCdYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfing With Noz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-31T08:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0n-t9hQ3mBkOpLe9A762MTZb82I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R-Vv_Uy4yOU"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-01T07:00:11Z",
+        "channelId": "UC02CqlESDR9WEzFWoiNAfVw",
+        "title": "The Day The Superbank Snapped.",
+        "description": "The last week of April, the Superbank came alive for almost 10 days straight. As the point filled up with more pro surfers preparing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R-Vv_Uy4yOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R-Vv_Uy4yOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R-Vv_Uy4yOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surf with Seb Chadwick",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-01T07:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cG24vrgQ71ESpcTcVU_LGxm_9tM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gzG26B14yRY"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-01T21:45:02Z",
+        "channelId": "UC6uX6GF5q2JxLjMkyivM2Og",
+        "title": "SURFING IN CAPETOWN SOUTH AFRICA",
+        "description": "SUPPORT OCEAN BASED ACTIVITIES IN SOUTH AFRICA FOR KIDS https://sentineloceanalliance.org/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gzG26B14yRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gzG26B14yRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gzG26B14yRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nathan Florence",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-01T21:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z6HBQ69w1mKrEXjWFc11hpVeT28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sM6tDiOsSOo"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-23T18:00:32Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "KAI LENNY Surfs in Final Round of THE EDDIE!",
+        "description": "Kai Lenny chases his big wave dream of a title at The Eddie Aikau Big Wave Invitational before switching gears to compete ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sM6tDiOsSOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sM6tDiOsSOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sM6tDiOsSOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-23T18:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sxgUjOhcMF34i3s502HDQdkVNbM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VD5IMdpDMUY"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-01T18:31:12Z",
+        "channelId": "UCwMV2FVARycp5_p665_eyZg",
+        "title": "REPEATER || A QUIKSILVER SURF FILM",
+        "description": "Repeater is the new surf movie by Quiksilver with surfing by Mikey Wright, Rolo Montes, Griffin Colapinto, Kael Walsh, Al Cleland ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VD5IMdpDMUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VD5IMdpDMUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VD5IMdpDMUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Quiksilver",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-01T18:31:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "si0l1wRmWdbToOqB4S3FU8Uq_Nk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u8jKh8WV4Bc"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-03T01:34:58Z",
+        "channelId": "UCsXYYt9hmwvaIl6v73JHKWw",
+        "title": "Wedge Surfing TODAY from Hurricane Swell",
+        "description": "I chased the hurricane swell to the Wedge earlier today (Sat. September 2, 2023) and while it was far from great it had a few good ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u8jKh8WV4Bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u8jKh8WV4Bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u8jKh8WV4Bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brad Jacobson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-03T01:34:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5cEAQ_NYTkwVSaz863a7V6xttKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iuy69BMHESM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-10T19:00:13Z",
+        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+        "title": "🔴(ASMR) Teahupoo: The Ultimate Surfing Experience - April 2023",
+        "description": "Welcome to Waves of the World We are not your typical surfing channel. Our dedicated filmers from around the world produce the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iuy69BMHESM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iuy69BMHESM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iuy69BMHESM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Waves of the World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-10T19:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KPWB47bF5lsUALITpLOxGsd9SLs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sEY1gV4Jsps"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-02T09:20:01Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "Watch LIVE: Finals Day at the 2023 ABANCA Pantin Classic Galicia Pro",
+        "description": "Watch competition LIVE in Pantin as we're set to crown our 2023 ABANCA Pantin Classic Galicia Pro winners today! 2023 Rip ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sEY1gV4Jsps/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sEY1gV4Jsps/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sEY1gV4Jsps/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-09-02T09:20:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WY6jBsWf7b74lqaWz6cAEMr6SFk",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-18T17:03:24Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Red Bull Surfing",
+        "description": "Welcome to the official Red Bull Surfing YouTube Channel! Watch weekly surf videos from across the world, with the likes of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaTkXiy6-LM13FeWDCBDkh58zgbCHEsyHs7fcljS9A=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaTkXiy6-LM13FeWDCBDkh58zgbCHEsyHs7fcljS9A=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaTkXiy6-LM13FeWDCBDkh58zgbCHEsyHs7fcljS9A=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-18T17:03:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s-j0ihAYVXUIB2jWlg2gGbKQkno",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yzfGtLXJm7I"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-22T18:15:37Z",
+        "channelId": "UCJBWZDkunrjWh50Etxdys2g",
+        "title": "SURFING HURRICANE HILARY BARRELS",
+        "description": "SURFING HURRICANE HILARY BARRELS. Tropical storm Hilary slammed California and brought epic surf to Southern ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yzfGtLXJm7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yzfGtLXJm7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yzfGtLXJm7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SoCal Surfer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-22T18:15:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WKMGJFG66TEa0mCBKyFKK2lnneA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KurlLBhCr0U"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-16T19:15:00Z",
+        "channelId": "UCLdPicN16eAKPKir8EY1UXQ",
+        "title": "THE BOOM NICARAGUA | RAW POV SURF SESSION",
+        "description": "On our first week at The Boom in Nicaragua we had some good moments; some tubes, some air sections and some rippable walls ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KurlLBhCr0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KurlLBhCr0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KurlLBhCr0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kale Brock",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-16T19:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RaA2LsusbKG8XOwx_uoac3ErxhU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zAwCBD2VXMI"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-05T19:00:32Z",
+        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+        "title": "SURFING THE BEST BEACH BREAK IN MEXICO",
+        "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zAwCBD2VXMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zAwCBD2VXMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zAwCBD2VXMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamie O'Brien",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-05T19:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4b3ESJuzMEqR3fAiO5Ogi8-so_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tWdUyjd4uYg"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-03T11:00:40Z",
+        "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
+        "title": "Guy Sits Out Back, Snags The Wave, Smacks It! (Opening Scene) – Uluwatu",
+        "description": "Uluwatu is almost always busy this time of the year, but the guy at the start of this video found a little extra space out that back and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tWdUyjd4uYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tWdUyjd4uYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tWdUyjd4uYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfers of Bali",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-03T11:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4tMA-2-5fXE-vUu_QaOqGjcdR7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2nzBOsNbBD0"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-02T06:27:02Z",
+        "channelId": "UCiWTRcls77dL9YHCrpE09wQ",
+        "title": "Fiji Cloudbreak Swell May 2018 - from the BIG WAVE PROJECT 2",
+        "description": "One of the great swell events of the century when literally all the best big wave surfers converge on Fiji's Cloudbreak to ride ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2nzBOsNbBD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2nzBOsNbBD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2nzBOsNbBD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SURFING VISIONS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-02T06:27:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x0391cB4MrIYWW07_cf9_r3Gwdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2rW1oqnChD4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-12T19:00:02Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "THE EDDIE is ON at WAIMEA BAY with KAI LENNY",
+        "description": "Kai Lenny assembles a surf super-team with Kelly Slater and Carissa Moore for the Backdoor Shootout at Pipeline, then competes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2rW1oqnChD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2rW1oqnChD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2rW1oqnChD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-12T19:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OBLCp2G46f-xHt65o45_FWm6SMc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9V_r-f0Uy9c"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-29T21:58:31Z",
+        "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
+        "title": "Surfers charge RARE wave from Hurricane Hilary! (RAW FOOTAGE)",
+        "description": "Surfers, skimboarders and bodyboarders charge Hurricane Hilary swell in Southern California. Raw footage all filmed on 8-21-23.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9V_r-f0Uy9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9V_r-f0Uy9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9V_r-f0Uy9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BEEFS T.V.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-29T21:58:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YPucQVPI8oCfDrl303Vuw33RuNU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TsexgnY_CnI"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-25T15:00:19Z",
+        "channelId": "UCeYue9Nbodzg3T1Nt88E3fg",
+        "title": "Clay Marzo Surfing Desert Point",
+        "description": "CLAY MARZO DESTROYING an average swell in Lombok. Mason Ho grabs Rory Pringle's camera to film his childhood friend ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TsexgnY_CnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TsexgnY_CnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TsexgnY_CnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ho & Pringle Productions",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-25T15:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZFi7tfrElP7ChmezZEn0U7Ga4-s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QfgxaCVNeMY"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-27T11:00:17Z",
+        "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
+        "title": "Surfing Alone …In Bali!?",
+        "description": "It's peak season with surfers packing Bali's lineups from dawn to dusk. But the guy in the opening scene of this video managed to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QfgxaCVNeMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QfgxaCVNeMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QfgxaCVNeMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfers of Bali",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-27T11:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bES7IfmYI3kHpTzibnBeqNqWY3I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EYlHiTaCoks"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-28T18:00:07Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "Perfect Pipeline With Kai Lenny And The GOAT Kelly Slater!",
+        "description": "Kelly Slater joins a surf super team at Pipeline with Kai Lenny and Carissa Moore for these pumping Da Hui Backdoor Shootout ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EYlHiTaCoks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EYlHiTaCoks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EYlHiTaCoks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-28T18:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZQ5elvhdlXKaEpU9X52wNlUN5Ww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-YBqjnQwGlI"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-31T06:35:20Z",
+        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
+        "title": "WATCH LIVE Bioglan Bells Beach Longboard Classic Presented by Rip Curl - Day 2",
+        "description": "Bells Beach, renowned for its rich surfing heritage, hosts the Longboard Tour for the first time ever. The Bioglan Bells Beach ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-YBqjnQwGlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-YBqjnQwGlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-YBqjnQwGlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "World Surf League",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-31T06:35:20Z"
+      }
+    }
+  ]
+}
