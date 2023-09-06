@@ -19,12 +19,10 @@ export default function Videos() {
       {isLoading && <p>Loading . . .</p>}
       {error && <p>Something is wrong !</p>}
       {videos && (
-        <ul>
-          <li>
-            {videos.map((it) => (
-              <VideoCard key={it.id} video={it} />
-            ))}
-          </li>
+        <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          {videos.map((it) => (
+            <VideoCard key={it.id} video={it} />
+          ))}
         </ul>
       )}
     </>
