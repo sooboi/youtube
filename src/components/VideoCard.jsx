@@ -16,7 +16,7 @@ export default function VideoCard({ video, type }) {
     >
       <img
         src={thumbnails.medium.url}
-        alt="title-image"
+        alt="title"
         className={isList ? "w-60 mr-2" : "w-full"}
       />
       <div>
