@@ -2,6 +2,7 @@ import React from "react";
 import { useYoutubeApi } from "../context/YoutubeApiContext";
 import { useQuery } from "@tanstack/react-query";
 import VideoCard from "./VideoCard";
+import Loading from "../pages/Loading";
 
 export default function RelatedVideos({ id }) {
   const { youtube } = useYoutubeApi();
@@ -16,7 +17,7 @@ export default function RelatedVideos({ id }) {
 
   return (
     <>
-      {isLoading && <p>Loading . . .</p>}
+      {isLoading && <Loading />}
       {error && <p>Something is wrong !</p>}
       {videos && (
         <ul>

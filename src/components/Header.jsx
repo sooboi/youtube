@@ -26,7 +26,7 @@ export default function Header() {
     <header className="w-full flex p-4 text-2xl border-b border-zinc-600 mb-4">
       <Link to="/" className="flex items-center">
         <IoLogoYoutube className="text-4xl text-brand" />{" "}
-        <h1 className="font-bold ml-2 text-3xl">Youtube</h1>
+        <h1 className="font-bold ml-2 text-3xl">Sootube</h1>
       </Link>
       <form onSubmit={handleSubmit} className="w-full flex justify-center ">
         <input
